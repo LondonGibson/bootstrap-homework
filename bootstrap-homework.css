@@ -1,0 +1,14 @@
+.row{
+  font-family: Arial; /* 1. Making the font family Arial inside the panels */
+  margin-top: 20px;  /* 2. Scooting the panels from the jumbotron */
+}
+.panel{
+  height: 200px; /* 3. Making them all the same height */
+  text-align: center;  /* 4. Centering the text in the panels */
+  background-color: #cce6ff;  /* 5. Making the panel background light blue */
+  font-size: 12px;  /* 6. Making the font slightly bigger */
+}
+.jumbotron{
+  background-color: #99ceff;  /* 7. Making the background a slightly darker blue */
+  border: 10px double #FFFFFF;  /* 8. Adding a double border for fanciness */
+}
